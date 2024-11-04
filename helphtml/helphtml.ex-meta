@@ -1,0 +1,11 @@
+{
+  "HelpHTML" : {
+    "Category" : "General",
+    "Keywords" : [
+      "Help",
+      "HTML",
+      "Browser"
+    ],
+    "Description" : "Shows how to open the Users default browser and display some help files of your choice."
+  }
+}
